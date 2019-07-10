@@ -1,0 +1,27 @@
+.body{
+    font-family: sans-serif;
+    background: rgba(243, 248, 217, 0.952);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 700px;
+    margin: auto;
+}
+.parejas{
+    background: rgba(113, 169, 221, 0.582);
+    display: flex;
+   
+    
+
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+li{
+    display: inline;
+    flex-basis: 40%;
+}
